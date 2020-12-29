@@ -8,7 +8,8 @@ def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     a = input('a=')
     b = input('b=')
-    print(f'Hi, {a+b}')  # Press Ctrl+F8 to toggle the breakpoint.
+    c = input('c=')
+    print(f'Hi, {a+b+c}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
