@@ -12,6 +12,10 @@ def print_hi(name):
     print(f'Hi, {a+b+c}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
+def sum_(x1, x2):
+    return x1 + x2
+
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
