@@ -1,0 +1,14 @@
+header hl {
+	color: blue;
+    background: url('bg.jpg') left / auto 100% no-repeat, 
+	url('bg.jpg') right / auto 100% no-repeat;
+}
+.root {
+    gfont-size: larger;
+}
+img.main-image{
+	width: 300px;
+}
+img.additional-image{
+	width: 180px;
+}

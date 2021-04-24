@@ -1,0 +1,13 @@
+header hl {
+	color: red;
+    gfont-size: larger;
+}
+.root {
+    ;
+}
+img.main-image{
+	width: 300px;
+}
+img.additional-image{
+	width: 180px;
+}
